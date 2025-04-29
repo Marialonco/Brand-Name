@@ -4,7 +4,8 @@ A modern and responsive landing page built with **HTML5** and **CSS3**, designed
 
 ## 🔍 Preview
 
-![Brand Name Preview](preview.jpg)  
+![Brand Name Preview](![image](https://github.com/user-attachments/assets/c689d316-6e05-486f-858d-74f902f9d065)
+)  
 *(Добавь сюда скриншот главной страницы)*
 
 ## 🚀 Features
